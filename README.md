@@ -8,7 +8,7 @@ Install the dependencies listed in 'requirements.txt'.
 The DQN training process, as well as the 1-step planning and round robin baseline algorithms, may be run from the command line. Examples are provided below.
 DQN:
 ```
-ython dqn_JRC_AoI_d.py --obj avg --rd_bad2b 0.1 0.2 0.1 --w_radar 9 10 1 --w_ovf 1 --data_gen 2 3 1 --nn_size 64 64 --double --dueling --n_experiments 5
+python dqn_JRC_AoI_d.py --obj avg --rd_bad2b 0.1 0.2 0.1 --w_radar 9 10 1 --w_ovf 1 --data_gen 2 3 1 --nn_size 64 64 --double --dueling --n_experiments 5
 ```
 1-Step Planner:
 ```
