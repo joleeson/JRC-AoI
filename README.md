@@ -4,7 +4,7 @@ Code for the paper "Learning to Schedule Joint Radar-Communication Requests for 
 ## Getting started
 Install the dependencies listed in 'requirements.txt'.
 
-## Running DQN
+## Running Experiments
 The DQN training process, as well as the 1-step planning and round robin baseline algorithms, may be run from the command line. Examples are provided below.
 DQN:
 ```
