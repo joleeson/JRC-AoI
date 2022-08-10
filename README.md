@@ -1,4 +1,6 @@
 # JRC-AoI
+[![DOI](https://zenodo.org/badge/370934498.svg)](https://zenodo.org/badge/latestdoi/370934498)
+
 Supplementary material for the following papers:
 
 <ol>
