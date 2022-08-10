@@ -1,7 +1,18 @@
 # JRC-AoI
-Code for the paper:
+Supplementary material for the following papers:
 
-J. Lee, T. D. Niyato, Y. L. Guan and D. I. Kim, "Learning to Schedule Joint Radar-Communication with Deep Multi-Agent Reinforcement Learning," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2021.3124810.
+<ol>
+  <li>
+  
+  [J. Lee, D. Niyato, Y. L. Guan and D. I. Kim, "Learning to Schedule Joint Radar-Communication With Deep Multi-Agent Reinforcement Learning," in IEEE Transactions on Vehicular Technology, vol. 71, no. 1, pp. 406-422, Jan. 2022, doi: 10.1109/TVT.2021.3124810.](https://ieeexplore.ieee.org/abstract/document/9601214)
+  </li>
+  <li>
+  
+  [J. Lee, D. Niyato, Y. L. Guan and D. I. Kim, "Learning to Schedule Joint Radar-Communication Requests for Optimal Information Freshness," 2021 IEEE Intelligent Vehicles Symposium (IV), 2021, pp. 8-15, doi: 10.1109/IV48863.2021.9575131.](https://ieeexplore.ieee.org/abstract/document/9575131)
+
+Also available on [Digital Repository of NTU](https://hdl.handle.net/10356/150718).
+</li>
+</ol> 
 
 ## Getting started
 Install the dependencies listed in 'requirements.txt'.
